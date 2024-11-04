@@ -35,8 +35,9 @@
 > > - a pie chart showing yearly temperature change
 > > - a line plot showing yearly temperature percentage change
 > > - a scatter plot with linear regression of the yearly temperature percentage change
-> ## <ins>ocean_temps.ipynb</ins> - Written by Janet Rodriguez
-> > - 
+> ## <ins>air_temps.ipynb</ins> - Written by Sapir Coulson
+> > - this calls on the same NCEI NOAA API but references average air temperature readings over a 2014 through 2024 timeframe very similar to the file above
+> > - The CSV that this code creates is called in the project_1_main.ipynb file
 > 
 # RESOURCES
 > Weather.gov Open Source Repository - https://weather-gov.github.io<br>
