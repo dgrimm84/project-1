@@ -20,7 +20,24 @@
 > > - Then, the CSV file created by the oct29,ipynb which contains FEMA disaster data is read, filtered down to date, event type, and obligatedTotalAmounts, the date field is cleaned to match the date format in the previous dataframes, and then this data is combined into one master dataframe
 > > - Four scatter plots with regression lines comparing these 4 datasets are plotted and saved
 > ## <ins>oct29.ipynb</ins> - Written by Maha Pentakota
-> > -  
+> > - this file accesses Version 2 of the API at the FEMA website whicih displays dollar amounts granted by FEMA for disaster relief per state and per year
+> > - This information is converted into a dataframe
+> > - summary data (mean, median, quartiles, min, max, etc.) are displayed for analysis
+> > - This dataframe is written to a CSV file to be called and used in the project_1_main.ipynb file
+> > - this dataframe is merged with a Geodata frame so that we can plot disasters on the map later
+> > - plots of disaster declarations, proportion of incident types, and a heatmap of incident type are created, displayed, and offloaded
+> ## <ins>ocean_temps.ipynb</ins> - Written by Janet Rodriguez
+> > - this file accesses the API at NCEI NOAA which captures ocean temperatures on a daily interval
+> > - Parameters narrowing this information down to United States data are added
+> > - a Line plot of these temperatures per year is generted and saved
+> > - A scatter plot with linear regression is plotted
+> > - a pie chart of temperature range proportion
+> > - a pie chart showing yearly temperature change
+> > - a line plot showing yearly temperature percentage change
+> > - a scatter plot with linear regression of the yearly temperature percentage change
+> ## <ins>ocean_temps.ipynb</ins> - Written by Janet Rodriguez
+> > - 
+> 
 # RESOURCES
 > Weather.gov Open Source Repository - https://weather-gov.github.io<br>
 > World Bank Data Support- https://datahelpdesk.worldbank.org<br>
