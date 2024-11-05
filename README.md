@@ -29,6 +29,11 @@
 
 > >   ![natural hazards](https://github.com/user-attachments/assets/f4de4076-371d-4d12-a4c3-262b54a0bdd6)
 
+## Summary of Data Gathered from comparison of FEMA attributed dollar amounts, air temperatures, ocean temperatures, death count, and property damage
+
+> > ![summary data temps deaths damage](https://github.com/user-attachments/assets/61acfb08-a249-47b0-978b-49eb4e19f7da)
+
+
 # Files in this Repository and Their Functions
 > ##  <ins>project_1_main.ipynb</ins> - Written by Daniel Grimm 
 > > - this file is the main code for the project.  It combines data from multiple data sources (APIs and CSVs) and creates plots for correlation
