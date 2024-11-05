@@ -1,12 +1,33 @@
 # project-1
 # Findings and Conclusions
 > > - Climate Change Impact: Rising ocean temperatures and sea levels are leading to more hurricanes and coastal flooding, particularly in the Gulf Coast and Southeast U.S., while the western regions are seeing more wildfires.
+
+> > ![pie_chart_damage_by_event_type](https://github.com/user-attachments/assets/d5ccfdb6-c475-4645-9a74-908326acae7d)
+
+> > ![global sea levels](https://github.com/user-attachments/assets/43def44c-37d4-4759-935a-5abba976a91b)
+
+> > ![severe storms](https://github.com/user-attachments/assets/0b40394f-b65a-4e92-bc66-55aa4b621e50)
+
 > > - Death Rate Trends: Although natural hazards are on the rise, improved forecasting and emergency response have helped lower death rates, especially for hurricanes.
+
+> >   ![scatter_plot_linear_reg_deaths](https://github.com/user-attachments/assets/408774f7-5aa2-4d25-aba3-ecbb18160a14)
+
 > > - High-Risk Regions: Areas like the Gulf Coast, Southeast, and parts of California are particularly vulnerable to climate-related hazards.
+
+> > ![high risk areas](https://github.com/user-attachments/assets/a98713de-8109-41c4-a2c7-4e22cb51149a)
+
+> > ![fema map](https://github.com/user-attachments/assets/ccd0fb62-6a5b-49ce-aacc-b815a23baf53)
+
 > > - Policy Needs: There’s a need for climate-resilient policies that integrate risk into planning and emergency management.
+> > - FEMA Fund Allocations: FEMA declaration of natural disasters has gone up from 2004 to 2024; which does show that the government is increasing the frequency of disaster declaration that require funding.  But, the funding from 2020 to 2024 has actually gone down.  After some research, it was found that this is likely due to federal government disaster relief funds were depleted during COVID and are still being replenished
+
+> >
+
 > > - Disaster Response: Investment in forecasting, public education, and preparedness is essential for effective disaster response.
 > > - Future Research: Further research is critical to understand how climate change influences hazards and to find the best ways to protect communities.
 > > - Misleading Data Findings: when a 20 year period is captured (2004 to 2024), air temperatures and ocean temperatures do actually trend downward as expected.  However, when we zoom in onto a 10 year period (2044, 2024), air temperatures and ocean temperatures actually trend downward.  We tried several different datasets like NASA and NOAA to confirm from multiple sources this was the case.  We researched this phenomenon and discovered that the data NOAA captured of these temperatures can be and is skewed by air current shifts, El Nino and La Nina, and during some natural ocean current changes, heat is sometimes distributed to deeper sections of the ocean which decreases the surface temperature of the ocean while not reducing the overall ocean temperature (measurements are taken at the surface)
+
+> >   ![natural hazards](https://github.com/user-attachments/assets/f4de4076-371d-4d12-a4c3-262b54a0bdd6)
 
 # Files in this Repository and Their Functions
 > ##  <ins>project_1_main.ipynb</ins> - Written by Daniel Grimm 
