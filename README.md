@@ -21,7 +21,9 @@
 > > - Policy Needs: There’s a need for climate-resilient policies that integrate risk into planning and emergency management.
 > > - FEMA Fund Allocations: FEMA declaration of natural disasters has gone up from 2004 to 2024; which does show that the government is increasing the frequency of disaster declaration that require funding.  But, the funding from 2020 to 2024 has actually gone down.  After some research, it was found that this is likely due to federal government disaster relief funds were depleted during COVID and are still being replenished
 
-> >
+> > ![fema declarations](https://github.com/user-attachments/assets/3de617c2-6c36-41b5-a089-67afa32b5f77)
+
+> > ![fema amounts](https://github.com/user-attachments/assets/d06c70cd-a2cd-44ae-ad8e-806b476444da)
 
 > > - Disaster Response: Investment in forecasting, public education, and preparedness is essential for effective disaster response.
 > > - Future Research: Further research is critical to understand how climate change influences hazards and to find the best ways to protect communities.
@@ -29,10 +31,17 @@
 
 > >   ![natural hazards](https://github.com/user-attachments/assets/f4de4076-371d-4d12-a4c3-262b54a0bdd6)
 
-## Summary of Data Gathered from comparison of FEMA attributed dollar amounts, air temperatures, ocean temperatures, death count, and property damage
+## Aggregate summary of Data Gathered from comparison of FEMA attributed dollar amounts, air temperatures, ocean temperatures, death count, and property damage
 
-> > ![summary data temps deaths damage](https://github.com/user-attachments/assets/61acfb08-a249-47b0-978b-49eb4e19f7da)
+![summary data temps deaths damage](https://github.com/user-attachments/assets/61acfb08-a249-47b0-978b-49eb4e19f7da)
 
+## Aggregate summary of the change in sea level over time
+
+![image](https://github.com/user-attachments/assets/cfec62e6-8a83-4460-ab7e-5a9e30cefb29)
+
+## Aggregate summary of FEMA dollar allocations per year
+
+![aggregate amount FEMA](https://github.com/user-attachments/assets/69bcd037-58f7-41ab-9465-8bc8f1b8520f)
 
 # Files in this Repository and Their Functions
 > ##  <ins>project_1_main.ipynb</ins> - Written by Daniel Grimm 
